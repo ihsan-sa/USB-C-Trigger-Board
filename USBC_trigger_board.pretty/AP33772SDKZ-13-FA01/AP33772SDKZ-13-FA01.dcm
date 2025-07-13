@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP33772SDKZ-13-FA01
+D USB, Type-C Controller PMIC W-QFN4040-24 (Type A1)
+K
+F https://www.diodes.com/datasheet/download/AP33772S.pdf
+$ENDCMP
+#
+#End Doc Library
