@@ -14693,8 +14693,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "USB-C PD Simple Trigger Board V1.0\nUp to 28V 5A with PD EPR\nPD PPS compatible\n\nhi@ihsan.cc\n"
-		(at 130.65 84.55 270)
+	(gr_text "USB-C PD Simple Trigger Board V1.0\nUp to 28V 5A with PD EPR\nPD PPS compatible\n2-layer board\n\nhi@ihsan.cc\n"
+		(at 129.5 84.55 270)
 		(layer "B.SilkS")
 		(uuid "d3d833df-ed81-4b85-a29f-14c529c6c965")
 		(effects
