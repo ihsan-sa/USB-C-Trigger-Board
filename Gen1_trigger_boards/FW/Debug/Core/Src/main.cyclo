@@ -1,0 +1,9 @@
+../Core/Src/main.c:69:5:_write	1
+../Core/Src/main.c:74:6:menu_exit_delay	2
+../Core/Src/main.c:92:5:main	7
+../Core/Src/main.c:192:6:SystemClock_Config	3
+../Core/Src/main.c:231:13:MX_I2C1_Init	4
+../Core/Src/main.c:279:13:MX_TIM14_Init	4
+../Core/Src/main.c:325:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:373:13:MX_GPIO_Init	1
+../Core/Src/main.c:397:6:Error_Handler	1

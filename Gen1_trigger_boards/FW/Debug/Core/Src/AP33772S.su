@@ -1,0 +1,12 @@
+../Core/Src/AP33772S.c:41:6:_print_max_curr	16	static
+../Core/Src/AP33772S.c:62:6:_print_curr_lim	16	static
+../Core/Src/AP33772S.c:84:6:req_PDO_options	72	static
+../Core/Src/AP33772S.c:139:10:_extract_PDO	40	static
+../Core/Src/AP33772S.c:149:6:select_PDO	64	static
+../Core/Src/AP33772S.c:198:6:print_stats	32	static
+../Core/Src/AP33772S.c:212:6:_print_arr	32	static
+../Core/Src/AP33772S.c:247:6:_get_data	72	static
+../Core/Src/AP33772S.c:264:5:_get_voltage	32	static
+../Core/Src/AP33772S.c:278:5:_get_current	32	static
+../Core/Src/AP33772S.c:293:5:_get_temperature	32	static
+../Core/Src/AP33772S.c:308:6:set_default_voltage	48	static
